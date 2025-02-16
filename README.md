@@ -1,2 +1,2 @@
 # my-git-project
-this is the 2nd experiment of ci/cd
+this is the experiment of ci/cd
